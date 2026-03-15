@@ -2,7 +2,7 @@
 
 **BookMyStay** is an **Airbnb-inspired hotel booking platform** built using the **MERN stack (MongoDB, Express, React, Node.js)**.
 
-🚧 **Project Status:** Work in Progress
+🚧 **Project Status:** `Work in Progress`
 
 This project is inspired by Airbnb and aims to provide a platform where users can explore hotels, view details, and book stays easily.
 
